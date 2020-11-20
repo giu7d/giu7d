@@ -1,16 +1,21 @@
+# Giuseppe Setem
+
+Working at @Dod; Studing at @IPB and @UTFPR.
+
+I work as a web developer since 2017. I course in Computer Science and Information Systems. My most valuable skill is in the front-end development, but on more than one occasion I get out of my comfort zone to help my team with other demands.
+
 ### Hi there 👋
 
-<!--
-**giu7d/giu7d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently working with Front-End Development, Augmented Reality and Industry 4.0.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Some of my skill are in:
+  - React
+  - React Native
+  - NodeJS
+  - JavaScript
+  - TypeScript
+  - UI/UX
+  - Redis
+  - MongoDB
+  - Postgres
+  - And many others... checkout my repos to see some of my experiments! 👀
