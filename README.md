@@ -2,7 +2,7 @@
 # Hi there 👋
 ## I am Giuseppe Setem
 
-Working at @Dod; Studying at @IPB and @UTFPR.
+Working at @Objective; Studying at @IPB and @UTFPR.
 
 I work as a web developer since 2017. I course Computer Science and Information Systems. My most valuable skill is in front-end development, but I get out of my comfort zone on more than one occasion to help my team with other demands.
 
